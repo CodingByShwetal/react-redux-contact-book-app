@@ -1,0 +1,28 @@
+{
+  "contactsList": [
+    {
+      "id": 1,
+      "name": "Shwetal Bhosale",
+      "email": "shwetalbhosale@gmail.com",
+      "contact": "9876543210"
+    },
+    {
+      "id": 2,
+      "name": "Shwetal Bhosale",
+      "email": "shwetalbhosale@gmail.com",
+      "contact": "9876543210"
+    },
+    {
+      "name": "Samiksha",
+      "email": "samikshadeshmukh2112@gmail.com",
+      "contact": "12442",
+      "id": 4
+    },
+    {
+      "name": "Sammy Deshmukh",
+      "email": "sammyd@gmail.com",
+      "contact": "7654321098",
+      "id": 5
+    }
+  ]
+}
